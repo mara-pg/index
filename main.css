@@ -1,0 +1,14 @@
+body {background: #84F59F}
+p{
+    color:black;
+    width: 300px;
+}
+h1{
+    font-weight: bold;
+    color:green;
+}
+h2{
+    font-weight: bold;
+    font-style: italic;
+    color:green;
+}
